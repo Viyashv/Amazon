@@ -355,6 +355,7 @@ ul{margin:0; padding-left: 5px;}
 #section3{
     width: 100%;
     display: flex;
+    flex-wrap:wrap;
     justify-content: space-evenly;
 }
 
@@ -363,6 +364,7 @@ a{
 
 }
 .section3Card3{
+    margin-top:1rem;
     height: 300px;
     width: 340px;
     display: flex;
